@@ -3,7 +3,7 @@
     "main.css": "./static/css/main.9fe4cbd1.css",
     "main.js": "./static/js/main.ead1eaca.js",
     "static/media/background.jpg": "./static/media/background.b8339b57d1bb18bd6ca7.jpg",
-    "test23/static/media/homeImage.png": "test23/static/media/homeImage.3cfbcb357cc07e50b75c.png",
+    "/static/media/homeImage.png": "./test23/static/media/homeImage.3cfbcb357cc07e50b75c.png",
     "static/media/roboto-all-500-normal.woff": "./static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "./static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "./static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
